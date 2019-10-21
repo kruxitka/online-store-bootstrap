@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category": "Cross-Country",
+        "title": "Full Grand Canyon AL 5 WMN",
+        "image": "full_grand-canyon-al-5-WMN_c1336.png",
+        "description": "This build combines a high-quality aluminium frame with high-performance, robust mountain biking components including a Shimano XT/SLX 2x11 drivetrain, hydraulic disc brakes, and tuneable suspension fork. Add in a women’s-specific geometry, and you’ll enjoy every minute of your rides.",
+        "price": 1499.99
+    },
+    {
+        "id": "2",
+        "category": "Cross-Country",
+        "title": "Full Exceed CF SL 8 WMN",
+        "image": "full_exceed-cf-sl-8-wmn_c1218.png",
+        "description": "This bike’s CF SL frame offers a mix of outstanding acceleration and long-distance comfort, and is packed full of cutting-edge design and innovation – such as Boost spacing, through axles, and internal cable routing. Throw in a 1x12 drivetrain, lightweight suspension fork and powerful disc brakes, and you have all the ingredients for a race-ready hardtail.",
+        "price": 2199.99
+    },
+    {
+        "id": "3",
+        "category": "Cross-Country",
+        "title": "Full Exceed CF SL 9 WMN",
+        "image": "full_exceed-cf-slx-9-wmn_c1288.png",
+        "description": "The Exceed CF SL 9.0 WMN has winning ambitions, combining a light carbon frame that delivers max power transfer and long-distance comfort, with an array of race-ready parts. The entry point into the Exceed range, this bike is anything but entry-level – just pin on a number and you’re ready for the start line.",
+        "price": 2249.99
+    },
+    {
+        "id": "4",
+        "category": "Cross-Country",
+        "title": "Full Exceed CF SLX 9 Pro Race LTD",
+        "image": "full_exceed-cf-slx-9-pro-race-ltd_c1243.png",
+        "description": "The Exceed CF SLX 9.0 Race Ltd. unites a cutting-edge super-light carbon frame with a component set to make the pros jealous – SRAM XX1 Eagle AXS shifting, carbon crank, Reynolds carbon wheels, World Cup-proven RockShox fork, and powerful brakes.",
+        "price": 2229.99
+    },
+    {
+        "id": "5",
+        "category": "Cross-Country",
+        "title": "Full Exceed CF SLX 9 Pro Race",
+        "image": "full_exceed-cf-slx-9-pro-race_c1152.png",
+        "description": "You don’t have to be a pro like Mathieu van der Poel to ride a world-class XC hardtail. The Exceed CF SLX 9.0 Race is a superlative race bike, with Shimano XTR, super-light carbon wheels, and 100 mm of precise, sensitive travel. Make every watt count in your next race.",
+        "price": 3729.99
+    },
+    {
+        "id": "6",
+        "category": "Cross-Country",
+        "title": "Full Lux CF SL 8 Pro Race",
+        "image": "full_lux-cf-sl-8-pro-race_c1288.png",
+        "description": "Combined with a selection of premium components, the centrepiece of the Lux CF SLX 9.0 Ltd is the world-level sub-2 kg carbon frame – it delivers blazing fast performance thanks to the efficient Flex Pivot suspension system and top stiffness levels, and has space for two big bottles in all sizes. And with a design that truly looks the part, it’s as stylish as it is quick.",
+        "price": 3829.99
+    },
+    {
+        "id": "7",
+        "category": "Trail",
+        "title": "Full Neuron AL 7",
+        "image": "full_neuron-al-7_c1275.png",
+        "description": "Ready to get out there and discover new trails? The Neuron AL 7.0 is tailor-made for long days in the saddle or epic alpine odysseys. A modern geometry meets high-quality components to provide maximum fun wherever you’re pedalling.",
+        "price": 999.99
+    },
+    {
+        "id": "8",
+        "category": "Trail",
+        "title": "Full Spectral AL 4 WMN",
+        "image": "full_spectral-al-4-wmn_c1266.png",
+        "description": "The Spectral WMN AL 4.0 is all about pure riding fun. The lightweight aluminium frame and suspension tuned for lighter riders provide controllability and agility for tackling steep trails and long descents with ease.",
+        "price": 999.99
+    },
+    {
+        "id": "9",
+        "category": "Trail",
+        "title": "Full Spectral CF 8 WMN",
+        "image": "full_spectral-cf-8-wmn_c1226.png",
+        "description": "With the Spectral CF 8.0, there are no limits – this bike can do it all. This multi award-winning trail bike gives you the confidence to tackle the most technically demanding trails, uphill and downhill.",
+        "price": 2499.99
+    },
+    {
+        "id": "10",
+        "category": "Trail",
+        "title": "Full Spectral CF 9 WMN",
+        "image": "full_spectral-cf-9-wmn_c1268.png",
+        "description": "Get creative planning your next mountain adventure! With the Spectral WMN CF 9.0 as your trusted companion, there’s hardly a trail out there that’s off limits. With its sleek carbon frame, excellent spec and extreme versatility, you’ll be able to push your limits and have a blast in the process!",
+        "price": 2499.99
+    },
+    {
+        "id": "11",
+        "category": "Trail",
+        "title": "Full Spectral CFR 9 LTD",
+        "image": "full_spectral-cfr-9-ltd_c1326.png",
+        "description": "The Spectral CFR 9.0 LTD combines a full carbon fibre main frame and swingarm for the ultimate performance and low weight. Add to that modern geometry, refined suspension and the highest quality components. This bike is a trail weapon.",
+        "price": 2499.99
+    },
+    {
+        "id": "12",
+        "category": "Enduro",
+        "title": "Full Strive CF 6",
+        "image": "full_strive-cf-6_c1327.png",
+        "description": "A long-travel Enduro race bike that can still scramble up technical climbs, the Strive CF 6.0 can truly do it all. At the top of the trailhead switch to DH mode to reveal the bike’s full potential. A lower centre of gravity, slacker head tube angle and longer wheelbase turn it from a capable climber into a downhill-hungry racing weapon.",
+        "price": 2499.99
+    },
+    {
+        "id": "13",
+        "category": "Enduro",
+        "title": "Full Strive CF 7",
+        "image": "full_strive-cf-7_c1099.png",
+        "description": "Choosing a new mountain bike can be difficult, but the new Strive CF 7.0 makes it easy. With the simple flick of a handlebar-mounted remote, you can change the Strive’s geometry mid-ride between a downhill bomber and a light-footed climber, effectively giving you two bikes in one.",
+        "price": 2499.99
+    },
+    {
+        "id": "14",
+        "category": "Enduro",
+        "title": "Full Strive CFR 9 LTD",
+        "image": "full_strive-cfr-9-ltd_c1120.png",
+        "description": "From Whistler to Finale Ligure, the Strive CFR 9.0 LTD was created to fight for seconds at the most challenging stops of the Enduro World Series. Its Shapeshifter system and excellent components come together to guarantee that you’re always in the hunt for a new personal best.",
+        "price": 3699.99
+    },
+    {
+        "id": "15",
+        "category": "Enduro",
+        "title": "Full Strive CFR 9 Team",
+        "image": "full_strive-cfr-9-team_c1321.png",
+        "description": "Designed for the racers of the Canyon Factory Enduro Team, if the podium is your goal, the Strive CFR 9.0 Team is the bike for you. Even lighter than its predecessor with the new CFR frame, its long reach ensures you always stay in control and keep hold of those decisive seconds no matter how gnarly the trail gets.",
+        "price": 4399.99
+    }
+]
